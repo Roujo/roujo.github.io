@@ -82,4 +82,7 @@ Also, make sure you store your plywood horizontally. I put mine up against a wal
 5. Repeat steps 3 and 4 for the other flange, so that both are held in place.
 6. Go ahead and drill pilot holes for the rest of the flange spots, then put screws in all of them
 
-That's it! 🎉
+
+## That's it! 🎉
+
+Feel free to reach me over on [Stamina Nation's Discord](https://discord.gg/vKatzmV) if you have any questions or comments, there's a #pads channel that's really active over there and you'll find a lot more information about pads, bars and all of the community's related projects. =)
