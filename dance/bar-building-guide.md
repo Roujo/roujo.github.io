@@ -1,11 +1,8 @@
----
-permalink: bar-building-guide
----
 # Building a bar for my L-Tek pad
 
 Here's what it looks like...
 
-<img src="image/pad.jpg" width=50%/>
+![picture of the fully assembled bar](image/pad.jpg){:width="50%"}
 
 ...and here's how to build it.
 
